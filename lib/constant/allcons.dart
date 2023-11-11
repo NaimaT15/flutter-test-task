@@ -26,7 +26,7 @@ final List<Comment> comments = [
     name: 'Kerry Johns',
     username: '@Kerryjo',
     comment:
-        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper 😃 amet justo quisque 😃😃 ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
+        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper 😊 amet justo quisque 😊❤️ ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
     replies: 15,
     hours: 3,
     commentCount: 15,
@@ -36,7 +36,7 @@ final List<Comment> comments = [
     name: 'Kerry Johns',
     username: '@Kerryjo',
     comment:
-        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper 😃 amet justo quisque 😃😃 ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
+        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper  😊 amet justo quisque 😃❤️ ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
     replies: 0,
     hours: 8,
     commentCount: 0,
@@ -46,7 +46,7 @@ final List<Comment> comments = [
     name: 'Kerry Johns',
     username: '@Kerryjo',
     comment:
-        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper 😃 amet justo quisque 😃😃 ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
+        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper  😊 amet justo quisque 😊❤️ ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
     replies: 15,
     hours: 3,
     commentCount: 15,
@@ -56,7 +56,7 @@ final List<Comment> comments = [
     name: 'Kerry Johns',
     username: '@Kerryjo',
     comment:
-        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper 😃 amet justo quisque 😃😃 ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
+        'Lorem ipsum dolor sit amet consectetur. Aliquam sagittis ullamcorper  😊 amet justo quisque 😊❤️ ullamcorper volutpat. Donec feugiat diam et tellus in habitant viverra duis. ',
     replies: 0,
     hours: 8,
     commentCount: 15,
@@ -64,8 +64,24 @@ final List<Comment> comments = [
 ];
 
 final List<String> emojis = [
- "😊", "😊", "😊", "😊", "😊",
-  "😊", "😊", "😊", "😊", "😊",
-  "😊", "😊", "😊", "😊", "😊",
-  "😊", "😊", "😊", "😊", "😊"
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊",
+  "😊"
 ];
